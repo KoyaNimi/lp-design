@@ -15,7 +15,7 @@ You can check each design in the lps and websites directories.
 Regarding website designs, they are managed in the following repositories:
 
 * [Banner Design](https://github.com/KoyaNimi/banner-design)
-* Others: [リポジトリURL]
+* [Other Design](https://github.com/KoyaNimi/other-design)
 
 ## License
 
