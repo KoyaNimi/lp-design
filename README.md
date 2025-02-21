@@ -19,7 +19,7 @@ Regarding website designs, they are managed in the following repositories:
 
 ## License
 
-The content of this repository is licensed under the [MIT License](LICENSE.txt).
+The content of this repository is licensed under the [MIT License](LICENSE).
 
 ## Author
 
